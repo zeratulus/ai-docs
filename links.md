@@ -30,3 +30,6 @@ GitHub Copilot in VS Code
  
 Web Scraping and HTML Basics
 > https://medium.com/@mervegamzenar/web-scraping-and-html-basics-6975ed22a6ae 
+
+Model Context Protocol servers
+> https://github.com/modelcontextprotocol/servers
