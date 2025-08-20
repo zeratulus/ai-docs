@@ -43,3 +43,5 @@ Train a diffusion model from Kaggle
 Train a diffusion model from Hugging Face
 > https://huggingface.co/docs/diffusers/main/en/tutorials/basic_training
 
+MMZNO Benchmark - designed to evaluate the performance of machine learning models on multi-modal zero-shot Ukrainian natural language understanding tasks.
+> https://github.com/lang-uk/mmzno-benchmark
